@@ -1,4 +1,4 @@
-# Dj-Rest-Auth
+# Dj-Rest-Auth APp
 [![<iMerica>](https://circleci.com/gh/iMerica/dj-rest-auth.svg?style=svg)](https://app.circleci.com/pipelines/github/iMerica/dj-rest-auth)
 
 
